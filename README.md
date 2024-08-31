@@ -1,2 +1,3 @@
 # git_learing
-this is new start
+This is new start
+auther name - Rohit Kodam
